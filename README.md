@@ -1,0 +1,2 @@
+# KitRbacBundle
+symfony RBAC bundle
